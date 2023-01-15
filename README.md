@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Linda Garcia, (21 she/her) a student from California.
-- 🏢 I am currently interning as a Software QA Engineer at NVIDIA.
+- 🏢 I am currently interning as an Automation and Tools Developer at NVIDIA.
 - 🎓 I'm majoring in Computer Science and Engineering and minoring in Cognitive Science at the University of California, Merced.
 - 👀 I’m interested in Machine Learning and AI.
 - ⚒️ I am using github for hackathons, personal projects, and class assignments.
