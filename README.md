@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Linda Garcia, (22 she/her) a student from California.
+- 👋 Hi, I’m Linda, (22 she/her) a student from California.
 - 🏢 I am currently interning as an Automation and Tools Developer at NVIDIA.
-- 🎓 I'm majoring in Computer Science and Engineering and minoring in Cognitive Science at the University of California, Merced.
+- 🎓 I'm currently obtaining my Bachelors of Science in Cognitive Science.
 - 👀 I’m interested in Machine Learning and AI.
 - ⚒️ I am using github for hackathons, personal projects, and class assignments.
-- 📫 You can reach me at https://linkedin.com/in/lindajgarcia323
+- 📫 You can reach me at kiindaliinda@gmail.com
