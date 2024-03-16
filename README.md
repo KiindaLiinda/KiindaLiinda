@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Linda, (22 she/her) a student from California.
+- 👋 Hi, I’m Linda, (23 she/her) a student from California.
 - 🏢 I am currently interning as an Automation and Tools Developer at NVIDIA.
 - 🎓 I'm currently obtaining my Bachelors of Science in Cognitive Science.
 - 👀 I’m interested in Machine Learning and AI.
